@@ -1,4 +1,4 @@
-# AHCOutputFileReaderForAllBrowsers
+# AHC Output File Reader For All Browsers
 
 ## 概要
 このUserScriptは、AtCoder Heuristic Contestのビジュアライザにおいて標準出力ファイルと標準エラー出力ファイルを自動的に読み込んで表示する機能を提供します。[以前作成したもの](https://github.com/qropa/marathon/tree/main/ahc)とは異なり、Braveなどのブラウザで動作することが確認されています。
